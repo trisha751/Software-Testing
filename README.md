@@ -28,3 +28,5 @@ When virtual environment was built successfully, I started testing a web applica
 - Host a web application on web server and access it from client machines
 - Test the connectivity of whole network
 - Test the hosted web application
+
+Read more about the project here: Project Report
