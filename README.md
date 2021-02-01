@@ -29,4 +29,4 @@ When virtual environment was built successfully, I started testing a web applica
 - Test the connectivity of whole network
 - Test the hosted web application
 
-Read more about the project here: Project Report
+Read more about the project here: [Project Report](http://bit.ly/vmtreport)
